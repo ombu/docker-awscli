@@ -4,7 +4,7 @@ Lightweight Docker image with the AWS, ECS CLI and awslogs tools
 Build the Docker image
 ----------------------
 
-    docker build -t ombu/awscli:latest .
+    docker build -t ombu/docker-awscli:latest .
 
 Run
 ---
